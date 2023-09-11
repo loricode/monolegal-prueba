@@ -1,0 +1,120 @@
+<div class="container p-2">
+  <form [formGroup]="searhForm" (ngSubmit)="searchSubmit()">
+    <div class="flex items-center flex-wrap">
+    <div class="basis-[45%]">
+      <input
+        formControlName="identification"
+        type="text"
+        id="identificacion"
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        placeholder="Identificación"
+      />
+    </div>
+
+    <div class="basis-[45%] mx-2">
+      <select
+        id="state"
+        formControlName="state"
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+      >
+        <option value="D">Desactivar</option>
+        <option value="P">Primer aviso</option>
+        <option value="S">Segundo aviso</option>
+      </select>
+    </div>
+
+    <div class="basis-[8%] flex justify-end">
+      <button
+      [disabled]="searhForm.invalid"
+        type="submit"
+        class="text-center focus:outline-none text-white p-3 focus:ring-4 font-medium rounded text-sm px-6 py-2 dark:bg-gray-700"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="w-6"
+          viewBox="0 0 512 512"
+        >
+          <path
+            d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z"
+            fill="none"
+            stroke="currentColor"
+            stroke-miterlimit="10"
+            stroke-width="32"
+          />
+          <path
+            fill="none"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-miterlimit="10"
+            stroke-width="32"
+            d="M338.29 338.29L448 448"
+          />
+        </svg>
+      </button>
+    </div>
+
+    </div>
+  </form>
+  <hr class="py-2" />
+
+  <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+      <thead
+        class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+      >
+        <tr>
+          <th scope="col" class="px-6 py-3">Código factura</th>
+          <th scope="col" class="px-6 py-3">Cliente</th>
+          <th scope="col" class="px-6 py-3">Ciudad</th>
+          <th scope="col" class="px-6 py-3">NIT</th>
+          <th scope="col" class="px-6 py-3">Total factura</th>
+          <th scope="col" class="px-6 py-3">Subtotal</th>
+          <th scope="col" class="px-6 py-3">Iva</th>
+          <th scope="col" class="px-6 py-3">Retención</th>
+          <th scope="col" class="px-6 py-3">Fecha creación</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr *ngFor="let item of detailBill.bills" class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+          <th scope="row"
+              class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+            {{item.code}}
+          </th>
+          <td class="px-6 py-4">
+            {{detailBill.fullName}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.city}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.totalBill | currency}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.subTotal | currency}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.iva | currency}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.retention | currency}}
+          </td>
+          <td class="px-6 py-4">
+            {{item.creationDate}}
+          </td>
+          <td class="px-6 py-4">
+            <select id="state"
+                    (change)="changeSelect(item, $event)"
+                    value={{item.state}}
+                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+              <option value="">Sin Seleccionar</option>
+              <option value="D">Desactivar</option>
+              <option value="P">Primer aviso</option>
+              <option value="S">Segundo aviso</option>
+            </select>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\ApplicationMonolegal.deps.json
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\ApplicationMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\ApplicationMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\EntityMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\PersistenceMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\PersistenceMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\bin\Debug\net7.0\EntityMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.AssemblyInfo.cs
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.csproj.CopyComplete
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\refint\ApplicationMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ApplicationMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\ApplicationMonolegal\obj\Debug\net7.0\ref\ApplicationMonolegal.dll

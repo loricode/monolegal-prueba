@@ -1,0 +1,12 @@
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\bin\Debug\net7.0\EntityMonolegal.deps.json
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\bin\Debug\net7.0\EntityMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\bin\Debug\net7.0\EntityMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.AssemblyInfo.cs
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\refint\EntityMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\EntityMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\EntityMonolegal\obj\Debug\net7.0\ref\EntityMonolegal.dll

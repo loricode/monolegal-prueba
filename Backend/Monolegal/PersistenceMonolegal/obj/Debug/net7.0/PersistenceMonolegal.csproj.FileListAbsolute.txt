@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\bin\Debug\net7.0\PersistenceMonolegal.deps.json
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\bin\Debug\net7.0\PersistenceMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\bin\Debug\net7.0\PersistenceMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\bin\Debug\net7.0\EntityMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\bin\Debug\net7.0\EntityMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.AssemblyInfo.cs
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.csproj.CopyComplete
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\refint\PersistenceMonolegal.dll
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\PersistenceMonolegal.pdb
+C:\Users\angel\Desktop\MonolegalProject\Backend\Monolegal\PersistenceMonolegal\obj\Debug\net7.0\ref\PersistenceMonolegal.dll
