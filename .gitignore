@@ -1,13 +1,13 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-/dist
+/Frontend/Monolegal/dist
 /tmp
 /out-tsc
 /bazel-out
 
 # Node
-/Frontend/Monolegal//node_modules
+/Frontend/Monolegal/node_modules
 npm-debug.log
 yarn-error.log
 
@@ -21,7 +21,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
-.vscode/*
+/Frontend/Monolegal/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
